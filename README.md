@@ -39,27 +39,25 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jamsheera-mp&show_icons=true&hide_title=false&count_private=true&theme=radical" height="150"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jamsheera-mp&show_icons=true&count_private=true&theme=radical" height="150"/>
   
   <!-- Top Languages -->
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheera-mp&theme=radical&layout=compact" height="150"/>
-  
-  <!-- LeetCode Stats -->
-  <img alt="LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=jamsheeramp2&theme=radical" height="150"/>
   
   <!-- GitHub Streak -->
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jamsheera-mp&theme=radical" height="150"/>
 </p>
 
 <p align="center">
-  <!-- Contribution Calendar -->
-  <img alt="Contribution Calendar" src="https://github-contribution-stats.vercel.app/api/?username=jamsheera-mp&theme=radical" />
+  <!-- LeetCode Stats (alt API) -->
+  <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/jamsheeramp2?theme=radical&font=Roboto&ext=contest" height="200"/>
 </p>
 
 <p align="center">
-  <!-- Most Starred Repos -->
-  <img alt="Most Starred Repos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheera-mp&show_icons=true&theme=radical&count_private=true&hide=prs&sort=stars" />
+  <!-- Contribution Graph -->
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jamsheera-mp&theme=radical" />
 </p>
+
 
 
 ---
