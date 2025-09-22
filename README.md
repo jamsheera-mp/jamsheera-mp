@@ -48,9 +48,9 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 </p>
 
 <p align="center">
-  <img alt="Contribution Calendar" src="https://activity-graph.herokuapp.com/graph?username=jamsheera-mp&theme=react-dark"/>
+  <img alt="Contribution Calendar" src="https://github-contribution-stats.vercel.app/api/?username=lorddashme&theme=react-dark"/>
 </p>
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+
 
 <p align="center">
   <img alt="Most Starred Repos" src="https://github-readme-stats.vercel.app/api?username=jamsheera-mp&show_icons=true&theme=radical&count_private=true&hide=prs&sort=stars"/>
