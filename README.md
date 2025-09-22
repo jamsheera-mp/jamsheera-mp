@@ -34,7 +34,6 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 </p>
 
 ---
-
 ## 📊 GitHub & Coding Stats
 
 <p align="center">
@@ -49,26 +48,33 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 </p>
 
 <p align="center">
-  <!-- LeetCode Stats (alt API) -->
-  <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/jamsheeramp2?theme=radical&font=Roboto&ext=contest" height="200"/>
-</p>
-
-<p align="center">
   <!-- Contribution Graph -->
   <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jamsheera-mp&theme=radical" />
 </p>
 
 
 
----
-
-## 🔗 Popular Repositories
-
-- **[E-Commerce Website](https://github.com/jamsheera-mp/Perfume-Castle--ecommerce-web-app)** – e-commerce application with Express.js, EJS, and MongoDB  
-- **[User Management System](https://github.com/jamsheera-mp/User-Management-System)** – User Management System with TypeScript  
-- **[Netflix Clone](https://github.com/jamsheera-mp/Netflix-Clone)** – Netflix Clone using React  
-- **[Personal Portfolio](https://github.com/jamsheera-mp/Personal-Website)** – My personal profile website  
 
 ---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/jamsheera-mp/ecommerce-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamsheera-mp&repo=ecommerce-app&theme=radical" />
+  </a>
+  <a href="https://github.com/jamsheera-mp/user-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamsheera-mp&repo=user-management-system&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jamsheera-mp/netflix-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamsheera-mp&repo=netflix-clone&theme=radical" />
+  </a>
+  <a href="https://github.com/jamsheera-mp/olx-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamsheera-mp&repo=olx-clone&theme=radical" />
+  </a>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=jamsheera-mp&icon=0&color=0)](https://visitcount.itsvg.in)
