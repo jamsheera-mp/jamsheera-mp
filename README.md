@@ -34,7 +34,7 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 </p>
 
 ---
-## 📊 GitHub & Coding Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <!-- GitHub Stats -->
