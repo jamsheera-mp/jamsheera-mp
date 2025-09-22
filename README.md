@@ -43,8 +43,6 @@ I’m a self-taught developer passionate about leveraging modern technologies to
   <!-- Top Languages -->
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheera-mp&theme=radical&layout=compact" height="150"/>
   
-  <!-- GitHub Streak -->
-  <img alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=jamsheera-mp&theme=radical" height="150"/>
 </p>
 
 <p align="center">
