@@ -12,7 +12,7 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 👩🏻‍🎓 MCA Graduate  
 🌐 Building user-friendly and scalable web applications  
 🚀 Currently mastering the MERN stack and building real-world projects  
-💬 Ask me about JavaScript, Node.js, MongoDB, and MERN stack   
+💬 Ask me about JavaScript, Node.js, MongoDB, and React  
 📫 Connect with me: [jamsheeramp2@gmail.com](mailto:jamsheeramp2@gmail.com)
 
 ---
