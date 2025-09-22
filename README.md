@@ -35,26 +35,35 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 
 ---
 
+
 ## 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jamsheera-mp&show_icons=true&hide_title=false&count_private=true&theme=radical"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheera-mp&theme=radical&layout=compact"/>
+  <!-- GitHub Stats -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jamsheera-mp&show_icons=true&hide_title=false&count_private=true&theme=radical" height="160"/>
+  
+  <!-- Top Languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheera-mp&theme=radical&layout=compact" height="160"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jamsheera-mp&theme=radical"/>
-  <img alt="LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=jamsheeramp2&theme=dark"/>
+  <!-- GitHub Streak -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jamsheera-mp&theme=radical" height="160"/>
+  
+  <!-- LeetCode Stats -->
+  <img alt="LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=jamsheeramp2&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img alt="Contribution Calendar" src="https://github-contribution-stats.vercel.app/api/?username=lorddashme&theme=react-dark"/>
+  <!-- Contribution Calendar -->
+  <img alt="Contribution Calendar" src="https://github-contribution-stats.vercel.app/api/?username=jamsheera-mp&theme=radical" />
 </p>
-
 
 <p align="center">
-  <img alt="Most Starred Repos" src="https://github-readme-stats.vercel.app/api?username=jamsheera-mp&show_icons=true&theme=radical&count_private=true&hide=prs&sort=stars"/>
+  <!-- Most Starred Repos -->
+  <img alt="Most Starred Repos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheera-mp&show_icons=true&theme=radical&count_private=true&hide=prs&sort=stars" />
 </p>
+
 
 ---
 
