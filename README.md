@@ -35,23 +35,20 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 
 ---
 
-
 ## 📊 GitHub & Coding Stats
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jamsheera-mp&show_icons=true&hide_title=false&count_private=true&theme=radical" height="160"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jamsheera-mp&show_icons=true&hide_title=false&count_private=true&theme=radical" height="150"/>
   
   <!-- Top Languages -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheera-mp&theme=radical&layout=compact" height="160"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jamsheera-mp&theme=radical" height="160"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheera-mp&theme=radical&layout=compact" height="150"/>
   
   <!-- LeetCode Stats -->
-  <img alt="LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=jamsheeramp2&theme=radical" height="160"/>
+  <img alt="LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=jamsheeramp2&theme=radical" height="150"/>
+  
+  <!-- GitHub Streak -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jamsheera-mp&theme=radical" height="150"/>
 </p>
 
 <p align="center">
