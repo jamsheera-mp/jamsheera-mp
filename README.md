@@ -60,7 +60,7 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/jamsheera-mp/ecommerce-app">
+  <a href="https://github.com/jamsheera-mp/Perfume-Castle--ecommerce-web-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamsheera-mp&repo=ecommerce-app&theme=radical" />
   </a>
   <a href="https://github.com/jamsheera-mp/user-management-system">
@@ -72,7 +72,7 @@ I’m a self-taught developer passionate about leveraging modern technologies to
   <a href="https://github.com/jamsheera-mp/netflix-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamsheera-mp&repo=netflix-clone&theme=radical" />
   </a>
-  <a href="https://github.com/jamsheera-mp/olx-clone">
+  <a href="https://github.com/jamsheera-mp/OLX_CLONE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamsheera-mp&repo=olx-clone&theme=radical" />
   </a>
 </p>
