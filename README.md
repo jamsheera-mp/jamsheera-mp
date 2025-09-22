@@ -48,7 +48,7 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 </p>
 
 <p align="center">
-  <img alt="Contribution Calendar" src="https://github-contribution-stats.vercel.app/api/?username=jamsheera-mp&theme=radical&count_private=true"/>
+  <img alt="Contribution Calendar" src="https://activity-graph.herokuapp.com/graph?username=jamsheera-mp&theme=react-dark"/>
 </p>
 
 <p align="center">
