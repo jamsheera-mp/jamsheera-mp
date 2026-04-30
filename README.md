@@ -11,9 +11,9 @@ I’m a self-taught developer passionate about leveraging modern technologies to
 👩🏻‍💻 Passionate Full-Stack Developer  
 👩🏻‍🎓 MCA Graduate  
 🌐 Building user-friendly and scalable web applications  
-💼 Currently working as a MERN Stack Developer at Arizone Trading LLC
-🚀 Actively building and improving real-world applications
-💬 Ask me about JavaScript, Node.js, MongoDB, and React  
+💼 Currently working as a MERN Stack Developer at Arizone Trading LLC  
+🚀 Actively building and improving real-world applications   
+💬 Ask me about JavaScript, Node.js, MongoDB, and React    
 📫 Connect with me: [jamsheeramp2@gmail.com](mailto:jamsheeramp2@gmail.com)
 
 ---
